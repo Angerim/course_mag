@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">course_mag</string>
+    <string name="icon_sale">Sale</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="about_text">Про нас</string>
+    <string name="main_text">Главная</string>
+    <string name="logo_text1">Courses</string>
+    <string name="logo_text2">App</string>
+</resources>
